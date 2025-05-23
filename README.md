@@ -1,16 +1,32 @@
-# focusfreak
+# FocusFreak
 
-A new Flutter project.
+A Flutter application designed to help users improve their focus and productivity through various mindfulness and productivity techniques.
+
+## Features
+
+- **Pomodoro Timer**: Time management technique using focused work intervals
+- **Meditation**: Guided mindfulness practice with ambient sounds
+- **Deep Reading**: Distraction-free reading environment
+- **Single Task**: Focus on one task at a time
+- **Digital Detox**: Take breaks from screen time
+- **Daily Motivation**: Get inspired with daily quotes
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter. To run it:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed
+2. Clone this repository
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to start the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- flutter_animate: For smooth animations
+- provider: For state management
+- audioplayers: For playing meditation sounds
+- shared_preferences: For local data storage
+
+## Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests.
